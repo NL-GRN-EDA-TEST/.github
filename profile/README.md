@@ -1,4 +1,4 @@
-# Public profile
+### Public profile
 
 > [`NL-GRN-EDA-TEST`](https://github.com/NL-GRN-EDA-TEST) is the test environment of the [`NL-GRN-EDA`](https://github.com/NL-GRN-EDA) organization.
 
